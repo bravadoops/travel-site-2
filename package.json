@@ -23,6 +23,7 @@
     "gulp-uglify": "^3.0.0",
     "gulp-usemin": "^0.3.29",
     "gulp-watch": "^4.3.5",
+    "jquery-smooth-scroll": "^2.2.0",
     "postcss-hexrgba": "^1.0.0",
     "postcss-import": "^8.1.2",
     "postcss-mixins": "^4.0.2",

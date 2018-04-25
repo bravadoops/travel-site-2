@@ -1084,6 +1084,11 @@ Instead edit gulp/templates/sprite */
 
   .site-header {
     background-color: rgba(47,85,114, .3);
+    position: fixed;
+  }
+
+  .site-header--darker {
+    background-color: rgba(47,85,114, .85);
   }
 }
 
@@ -1244,6 +1249,10 @@ Instead edit gulp/templates/sprite */
   .primary-nav a {
     padding: 12px 0;
     background-color: transparent;
+  }
+
+  .primary-nav a.is-current-section {
+    color: #d59541;
   }
 }
 
